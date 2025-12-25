@@ -1,0 +1,9 @@
+task_id,user_id,created_at,completed_at,status,task_duration_hours
+101,1,2024-01-06,2024-01-06,completed,0.0
+102,2,2024-01-07,,pending,
+103,3,2024-01-11,2024-01-12,completed,24.0
+104,4,2024-01-13,2024-01-14,completed,24.0
+105,5,2024-01-15,,pending,
+106,6,2024-01-18,2024-01-19,completed,24.0
+107,7,2024-01-21,,pending,
+108,8,2024-01-23,2024-01-24,completed,24.0

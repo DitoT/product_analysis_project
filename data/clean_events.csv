@@ -1,0 +1,9 @@
+event_id,user_id,event_type,event_date
+201,1,login,2024-01-06
+202,1,task_created,2024-01-06
+203,2,login,2024-01-07
+204,3,task_completed,2024-01-12
+205,4,task_completed,2024-01-14
+206,5,login,2024-01-15
+207,6,task_completed,2024-01-19
+208,7,login,2024-01-21
